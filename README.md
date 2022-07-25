@@ -26,11 +26,11 @@ GitHub Repository
 Survey
 ---
 
-* (2014 TNNLS) Classification in the Presence of Label Noise: A Survey [[paper]](https://ieeexplore.ieee.org/document/6685834%5C%22)
-* (2019 KBS) Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey [[paper]](https://arxiv.org/abs/1912.05170)
-* (2020 MIA) Deep learning with noisy labels: exploring techniques and remedies in medical image analysis [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520301237)
-* (2020 ArXiv) A Survey of Label-noise Representation Learning: Past, Present and Future [[paper]](https://arxiv.org/abs/2011.04406) [[code]](https://github.com/bhanML/label-noise-papers) ![GitHub Repo stars](https://img.shields.io/github/stars/bhanML/label-noise-papers?style=social)
-* (2022 TNNLS) Learning from Noisy Labels with Deep Neural Networks: A Survey [[paper]](https://arxiv.org/abs/2007.08199) [[code]](https://github.com/songhwanjun/Awesome-Noisy-Labels) ![GitHub Repo stars](https://img.shields.io/github/stars/songhwanjun/Awesome-Noisy-Labels?style=social)
+* [**2014 TNNLS**] Classification in the Presence of Label Noise: A Survey [[paper]](https://ieeexplore.ieee.org/document/6685834%5C%22)
+* [**2019 KBS**] Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey [[paper]](https://arxiv.org/abs/1912.05170)
+* [**2020 MIA**] Deep learning with noisy labels: exploring techniques and remedies in medical image analysis [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520301237)
+* [**2020 ArXiv**] A Survey of Label-noise Representation Learning: Past, Present and Future [[paper]](https://arxiv.org/abs/2011.04406) [[code]](https://github.com/bhanML/label-noise-papers) ![GitHub Repo stars](https://img.shields.io/github/stars/bhanML/label-noise-papers?style=social)
+* [**2022 TNNLS**] Learning from Noisy Labels with Deep Neural Networks: A Survey [[paper]](https://arxiv.org/abs/2007.08199) [[code]](https://github.com/songhwanjun/Awesome-Noisy-Labels) ![GitHub Repo stars](https://img.shields.io/github/stars/songhwanjun/Awesome-Noisy-Labels?style=social)
 
 Distinguished Researchers and Team
 ---
