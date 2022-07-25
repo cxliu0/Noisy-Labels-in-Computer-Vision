@@ -195,7 +195,7 @@ Object Counting
 [[code]](https://github.com/zhiqic/Rethinking-Counting)
 ![GitHub Repo stars](https://img.shields.io/github/stars/zhiqic/Rethinking-Counting?style=social)
 
-* [**NeurIPS 2020**] Jia Wan Antoni B. Chan.  
+* [**NeurIPS 2020**] Jia Wan, Antoni B. Chan.  
   "Modeling Noisy Annotations for Crowd Counting."
 [[paper]](https://proceedings.neurips.cc/paper/2020/file/22bb543b251c39ccdad8063d486987bb-Paper.pdf)
 [[code]](https://github.com/jia-wan/NoisyCC-pytorch)
