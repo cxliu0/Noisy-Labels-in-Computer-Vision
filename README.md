@@ -57,6 +57,12 @@ Object Detection
 [[code]](https://github.com/cxliu0/OA-MIL)
 ![GitHub Repo stars](https://img.shields.io/github/stars/cxliu0/OA-MIL?style=social)
 
+* [**ECCV 2022**] **W2N**: Zitong Huang, Yiping Bao, Bowen Dong, Erjin Zhou, Wangmeng Zuo.  
+   "W2N: Switching From Weak Supervision to Noisy Supervision for Object Detection."
+   [[paper]](https://arxiv.org/pdf/2207.12104.pdf)
+   [[code]](https://github.com/1170300714/w2n_wsod)
+   ![GitHub Repo stars](https://img.shields.io/github/stars/1170300714/w2n_wsod?style=social)
+
 * [**Remote Sensing 2022**] Maximilian Bernhard, Matthias Schubert.  
   "Correcting Imprecise Object Locations for Training Object Detectors in Remote Sensing Applications." [[paper]](https://www.mdpi.com/2072-4292/13/24/4962)
 
