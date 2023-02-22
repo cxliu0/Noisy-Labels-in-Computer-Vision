@@ -5,13 +5,22 @@ A curated list of papers that study learning with noisy labels.
 
 ---
 <!--ts-->
-   * [Image Classification](#image-classification)
-     * [GitHub Repository](#github-repository)
-     * [Survey](#survey)
-     * [Distinguished Researchers and Team](#distinguished-researchers-and-team)
-   * [Object Detection](#object-detection)
-   * [Segmentation](#segmentation)
-   * [Object Counting](#object-counting)
+- [Noisy Labels in Computer Vision](#noisy-labels-in-computer-vision)
+- [Image Classification](#image-classification)
+  - [GitHub Repository](#github-repository)
+  - [Survey](#survey)
+  - [Distinguished Researchers and Team](#distinguished-researchers-and-team)
+- [Object Detection](#object-detection)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+- [Segmentation](#segmentation)
+  - [2022](#2022-1)
+  - [2021](#2021-1)
+  - [2020](#2020-1)
+  - [2019](#2019-1)
+- [Object Counting](#object-counting)
    
 <!--te-->
 ---
@@ -68,6 +77,10 @@ Object Detection
 
 * [**ArXiv 2022**] Shaoru Wang, Jin Gao, Bing Li, Weiming Hu.  
   "Narrowing the Gap: Improved Detector Training with Noisy Location Annotations." [[paper]](https://arxiv.org/pdf/2206.05708.pdf)
+
+* [**ArXiv 2022**] Krystian Chachuła, Adam Popowicz, Jakub Łyskawa, Bartłomiej Olber, Piotr Fr  ̨ atczak, Krystian Radlak.  
+  "Combating noisy labels in object detection datasets." [[paper]](https://arxiv.org/pdf/2211.13993.pdf)
+  
 
 2021
 ----
@@ -133,6 +146,13 @@ Segmentation
 [[code]](https://github.com/Kangningthu/ADELE)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Kangningthu/ADELE?style=social)
 
+* [**CVPR 2022**] **SimT**: Xiaoqing Guo, Jie Liu, Tongliang Liu, Yixuan Yuan.
+  "SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation."
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.pdf)
+  [[code]](https://github.com/CityU-AIM-Group/SimT)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/CityU-AIM-Group/SimT?style=social)
+  * (TPAMI version) Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation. [[paper]](https://ieeexplore.ieee.org/abstract/document/10048580)
+  
 * [**AAAI 2022**] Yaoru Luo, Guole Liu, Yuanhao Guo, Ge Yang.  
   "Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation."
 [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-12729.LuoY.pdf)
