@@ -11,6 +11,7 @@ A curated list of papers that study learning with noisy labels.
   - [Survey](#survey)
   - [Distinguished Researchers and Team](#distinguished-researchers-and-team)
 - [Object Detection](#object-detection)
+  - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
@@ -21,7 +22,7 @@ A curated list of papers that study learning with noisy labels.
   - [2020](#2020-1)
   - [2019](#2019-1)
 - [Object Counting](#object-counting)
-   
+
 <!--te-->
 ---
 
@@ -51,6 +52,14 @@ Distinguished Researchers and Team
 Object Detection
 ================
 
+2023
+----
+* [**ICCV 2023**] **SSD-Det**: Di Wu, Pengfei Chen, Xuehui Yu, Guorong Li, Zhenjun Han, Jianbin Jiao.  
+  "Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes."
+[[paper]](https://arxiv.org/pdf/2307.12101v1.pdf)
+[[code]](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det)
+
+
 2022
 ----
 
@@ -75,7 +84,7 @@ Object Detection
 * [**Remote Sensing 2022**] Maximilian Bernhard, Matthias Schubert.  
   "Correcting Imprecise Object Locations for Training Object Detectors in Remote Sensing Applications." [[paper]](https://www.mdpi.com/2072-4292/13/24/4962)
 
-* [**ArXiv 2022**] Shaoru Wang, Jin Gao, Bing Li, Weiming Hu.  
+* [**TIP 2022**] Shaoru Wang, Jin Gao, Bing Li, Weiming Hu.  
   "Narrowing the Gap: Improved Detector Training with Noisy Location Annotations." [[paper]](https://arxiv.org/pdf/2206.05708.pdf)
 
 * [**ArXiv 2022**] Krystian Chachuła, Adam Popowicz, Jakub Łyskawa, Bartłomiej Olber, Piotr Fr  ̨ atczak, Krystian Radlak.  
@@ -205,7 +214,8 @@ Segmentation
 ![GitHub Repo stars](https://img.shields.io/github/stars/502463708/Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation?style=social)
 
 2019
-----
+---
+
 * [**CVPR 2019**] Yi Zhu, Karan Sapra, Fitsum A. Reda, Kevin J. Shih, Shawn Newsam, Andrew Tao, Bryan Catanzaro.  
   "Improving Semantic Segmentation via Video Propagation and Label Relaxation."
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.pdf)
