@@ -225,6 +225,14 @@ Segmentation
 Object Counting
 ===============
 
+* [**TPAMI 2023**] Jia Wan, Qiangqiang Wu, Antoni B. Chan.
+  "Modeling Noisy Annotations for Point-wise Supervision."
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10197253/authors#authors)
+
+* [**ArXiv 2023**] Yuehai Chen, Jing Yang, Badong Chen, Shaoyi Du, Gang Hua.
+  "Point Annotation Probability Map: Towards Dense Object Counting by Tolerating Annotation Noise."
+  [[paper]](https://arxiv.org/pdf/2308.00530.pdf)
+
 * [**CVPR 2022**] Zhi-Qi Cheng, Qi Dai, Hong Li, Jingkuan Song, Xiao Wu, Alexander G. Hauptmann.  
   "Rethinking Spatial Invariance of Convolutional Networks for Object Counting."
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Rethinking_Spatial_Invariance_of_Convolutional_Networks_for_Object_Counting_CVPR_2022_paper.pdf)
