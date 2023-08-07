@@ -17,6 +17,7 @@ A curated list of papers that study learning with noisy labels.
   - [2020](#2020)
   - [2019](#2019)
 - [Segmentation](#segmentation)
+  - [2023](#2023-1)
   - [2022](#2022-1)
   - [2021](#2021-1)
   - [2020](#2020-1)
@@ -147,6 +148,14 @@ Object Detection
 Segmentation
 ============
 
+2023
+----
+* [**ICLR 2023**] Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen.
+  "Learning to Segment Ffrom Noisy Annotations: A Spatial Correction Aapproach."
+[[paper]](https://openreview.net/pdf?id=Qc_OopMEBnC)
+[[code]](https://github.com/michaelofsbu/SpatialCorrection)
+![GitHub Repo stars](https://img.shields.io/github/stars/michaelofsbu/SpatialCorrection?style=social)
+
 2022
 ----
 * [**CVPR 2022 oral**] Sheng Liu, Kangning Liu, Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda.  
@@ -181,6 +190,7 @@ Segmentation
 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Learning_With_Noisy_Labels_for_Robust_Point_Cloud_Segmentation_ICCV_2021_paper.pdf)
 [[code]](https://github.com/pleaseconnectwifi/PNAL)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pleaseconnectwifi/PNAL?style=social)
+  * (TPAMI version) Robust Point Cloud Segmentation with Noisy Annotations. [[paper]](https://ieeexplore.ieee.org/document/9966842/)
 
 * [**ICCV 2021**] Yuxi Wang, Junran Peng, Zhaoxiang Zhang.  
   "Uncertainty-aware Pseudo Label Refinery for Domain Adaptive Semantic Segmentation."
@@ -225,7 +235,7 @@ Segmentation
 Object Counting
 ===============
 
-* [**TPAMI 2023**] Jia Wan, Qiangqiang Wu, Antoni B. Chan.
+* [**TPAMI 2023**] Jia Wan, Qiangqiang Wu, Antoni B. Chan.  
   "Modeling Noisy Annotations for Point-wise Supervision."
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10197253/authors#authors)
 
