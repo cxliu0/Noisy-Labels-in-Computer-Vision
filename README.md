@@ -60,6 +60,9 @@ Object Detection
 [[paper]](https://arxiv.org/pdf/2307.12101v1.pdf)
 [[code]](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det)
 
+* [**ArXiv 2023**] Donghao Zhou, Jialin Li, Jinpeng Li, Jiancheng Huang, Qiang Nie, Yong Liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen.  
+  "Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes." [[paper]](https://arxiv.org/pdf/2308.12017v1.pdf)
+
 
 2022
 ----
