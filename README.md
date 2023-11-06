@@ -11,17 +11,7 @@ A curated list of papers that study learning with noisy labels.
   - [Survey](#survey)
   - [Distinguished Researchers and Team](#distinguished-researchers-and-team)
 - [Object Detection](#object-detection)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
 - [Segmentation](#segmentation)
-  - [2023](#2023-1)
-  - [2022](#2022-1)
-  - [2021](#2021-1)
-  - [2020](#2020-1)
-  - [2019](#2019-1)
 - [Object Counting](#object-counting)
 
 <!--te-->
@@ -62,6 +52,9 @@ Object Detection
 
 * [**ArXiv 2023**] Donghao Zhou, Jialin Li, Jinpeng Li, Jiancheng Huang, Qiang Nie, Yong Liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen.  
   "Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes." [[paper]](https://arxiv.org/pdf/2308.12017v1.pdf)
+
+* [**ArXiv 2023**] Marius Schubert, Tobias Riedlinger, Karsten Kahl, Daniel Kröll, Sebastian Schoenen, Siniša Šegvic, Matthias Rottmann.  
+  "Identifying Label Errors in Object Detection Datasets by Loss Inspection." [[paper]](https://arxiv.org/pdf/2308.12017v1.pdf](https://arxiv.org/pdf/2303.06999.pdf))
 
 
 2022
