@@ -146,11 +146,16 @@ Segmentation
 
 2023
 ----
-* [**ICLR 2023**] Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen.
-  "Learning to Segment Ffrom Noisy Annotations: A Spatial Correction Aapproach."
+* [**ICLR 2023**] Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen.   
+  "Learning to Segment From Noisy Annotations: A Spatial Correction Approach."
 [[paper]](https://openreview.net/pdf?id=Qc_OopMEBnC)
 [[code]](https://github.com/michaelofsbu/SpatialCorrection)
 ![GitHub Repo stars](https://img.shields.io/github/stars/michaelofsbu/SpatialCorrection?style=social)
+
+* [**ArXiv 2023**] Zicheng Wang, Zhen Zhao, Erjian Guo, Luping Zhou.   
+  "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels."
+[[paper]](https://arxiv.org/pdf/2311.16580.pdf)
+[[code]](https://github.com/xiaoyao3302/2BDenoise)
 
 2022
 ----
