@@ -5,7 +5,6 @@ A curated list of papers that study learning with noisy labels.
 
 ---
 <!--ts-->
-- [Noisy Labels in Computer Vision](#noisy-labels-in-computer-vision)
 - [Image Classification](#image-classification)
   - [GitHub Repository](#github-repository)
   - [Survey](#survey)
