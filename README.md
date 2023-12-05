@@ -34,9 +34,10 @@ Survey
 
 Distinguished Researchers and Team
 ---
-* [Tongliang Liu](https://tongliang-liu.github.io/)
-* [Bo Han](https://bhanml.github.io/)
-* [RIKEN-AIP](https://aip.riken.jp/labs/generic_tech/imperfect_inf_learn/)
+* [Tongliang Liu](https://tongliang-liu.github.io/), The University of Sdyney
+* [Bo Han](https://bhanml.github.io/), Hong Kong Baptist University
+* [Yang Liu](http://www.yliuu.com/), UC Santa Cruz
+* [RIKEN-AIP](https://aip.riken.jp/labs/generic_tech/imperfect_inf_learn/), Japan
 
 
 Object Detection
