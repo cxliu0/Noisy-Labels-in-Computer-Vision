@@ -57,7 +57,7 @@ Object Detection
   "Identifying Label Errors in Object Detection Datasets by Loss Inspection." [[paper]](https://arxiv.org/pdf/2308.12017v1.pdf](https://arxiv.org/pdf/2303.06999.pdf))
 
 * [**ArXiv 2023**] **UNA**: Kwangrok Ryoo, Yeonsik Jo, Seungjun Lee, Mira Kim, Ahra Jo, Seung Hwan Kim, Seungryong Kim, Soonyoung Lee. 
-  "Universal Noise Annotation: Unveiling the Impact of Noisy Annotation on Object Detection."
+  "Universal Noise Annotation: Unveiling the Impact of Noisy Annotation on Object Detection." 
 [[paper]](https://arxiv.org/pdf/2312.13822.pdf)
 [[code]](https://github.com/Ryoo72/UNA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ryoo72/UNA?style=social)
