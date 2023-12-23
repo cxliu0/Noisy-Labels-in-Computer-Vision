@@ -56,7 +56,7 @@ Object Detection
 * [**ArXiv 2023**] Marius Schubert, Tobias Riedlinger, Karsten Kahl, Daniel Kröll, Sebastian Schoenen, Siniša Šegvic, Matthias Rottmann.  
   "Identifying Label Errors in Object Detection Datasets by Loss Inspection." [[paper]](https://arxiv.org/pdf/2308.12017v1.pdf](https://arxiv.org/pdf/2303.06999.pdf))
 
-* [**ArXiv 2023**] **UNA**: Kwangrok Ryoo, Yeonsik Jo, Seungjun Lee, Mira Kim, Ahra Jo, Seung Hwan Kim, Seungryong Kim, Soonyoung Lee. 
+* [**ArXiv 2023**] **UNA**: Kwangrok Ryoo, Yeonsik Jo, Seungjun Lee, Mira Kim, Ahra Jo, Seung Hwan Kim, Seungryong Kim, Soonyoung Lee.   
   "Universal Noise Annotation: Unveiling the Impact of Noisy Annotation on Object Detection." 
 [[paper]](https://arxiv.org/pdf/2312.13822.pdf)
 [[code]](https://github.com/Ryoo72/UNA)
@@ -240,6 +240,10 @@ Segmentation
 
 Object Counting
 ===============
+
+* [**ArXiv 2023**] Yuda Zou, Xin Xiao, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu.  
+  "Noised Autoencoders for Point Annotation Restoration in Object Counting."
+  [[paper]](https://arxiv.org/pdf/2312.07190.pdf)
 
 * [**TPAMI 2023**] Jia Wan, Qiangqiang Wu, Antoni B. Chan.  
   "Modeling Noisy Annotations for Point-wise Supervision."
