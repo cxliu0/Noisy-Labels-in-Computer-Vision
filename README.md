@@ -241,18 +241,27 @@ Segmentation
 Object Counting
 ===============
 
-* [**ArXiv 2023**] Yuda Zou, Xin Xiao, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu.  
-  "Noised Autoencoders for Point Annotation Restoration in Object Counting."
-  [[paper]](https://arxiv.org/pdf/2312.07190.pdf)
+2023
+---
 
 * [**TPAMI 2023**] Jia Wan, Qiangqiang Wu, Antoni B. Chan.  
   "Modeling Noisy Annotations for Point-wise Supervision."
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10197253/authors#authors)
 
+* [**ArXiv 2023**] **SACC-Net**: Yi-Kuan Hsieh, Jun-Wei Hsieh, Xin li, Ming-Ching Chang, Yu-Chee Tseng.   
+  "Scale-Aware Crowd Count Network with Annotation Error Correction."
+  [[paper]](https://arxiv.org/pdf/2312.16771.pdf)
+
+* [**ArXiv 2023**] Yuda Zou, Xin Xiao, Peilin Zhou, Zhichao Sun, Bo Du, Yongchao Xu.  
+  "Noised Autoencoders for Point Annotation Restoration in Object Counting."
+  [[paper]](https://arxiv.org/pdf/2312.07190.pdf)
+
 * [**ArXiv 2023**] Yuehai Chen, Jing Yang, Badong Chen, Shaoyi Du, Gang Hua.
   "Point Annotation Probability Map: Towards Dense Object Counting by Tolerating Annotation Noise."
   [[paper]](https://arxiv.org/pdf/2308.00530.pdf)
 
+2022 and before
+---
 * [**CVPR 2022**] Zhi-Qi Cheng, Qi Dai, Hong Li, Jingkuan Song, Xiao Wu, Alexander G. Hauptmann.  
   "Rethinking Spatial Invariance of Convolutional Networks for Object Counting."
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Rethinking_Spatial_Invariance_of_Convolutional_Networks_for_Object_Counting_CVPR_2022_paper.pdf)
