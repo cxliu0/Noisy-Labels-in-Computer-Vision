@@ -43,6 +43,13 @@ Distinguished Researchers and Team
 Object Detection
 ================
 
+2024
+---
+* [**ArXiv**] **DN-TOD**: Haoran Zhua, Chang Xua, Wen Yanga, Ruixiang Zhanga, Yan Zhanga, Gui-Song Xia.  
+  "Robust Tiny Object Detection in Aerial Images amidst Label Noise."
+  [[paper]](https://arxiv.org/pdf/2401.08056.pdf)
+
+
 2023
 ----
 * [**ICCV 2023**] **SSD-Det**: Di Wu, Pengfei Chen, Xuehui Yu, Guorong Li, Zhenjun Han, Jianbin Jiao.  
