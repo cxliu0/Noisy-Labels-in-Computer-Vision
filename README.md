@@ -99,6 +99,11 @@ Object Detection
 * [**ArXiv 2022**] Krystian Chachuła, Adam Popowicz, Jakub Łyskawa, Bartłomiej Olber, Piotr Fr  ̨ atczak, Krystian Radlak.  
   "Combating noisy labels in object detection datasets." [[paper]](https://arxiv.org/pdf/2211.13993.pdf)
   
+* [**ACM GIS 2022**] Maximilian Bernhard, Matthias Schubert.  
+   "Robust object detection in remote sensing imagery with noisy and sparse geo-annotations."  
+   [[paper]](https://arxiv.org/pdf/2210.12989.pdf)
+   [[code]](https://github.com/mxbh/robust_object_detection)
+   ![GitHub Repo stars](https://img.shields.io/github/stars/mxbh/robust_object_detection?style=social)
 
 2021
 ----
